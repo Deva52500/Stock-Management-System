@@ -1,12 +1,12 @@
 # To run the frontend
  
  cd client
- Run: npm start
+ ### `npm start
 
 # To run the backend
 
  cd server
- Run: npm start
+### `npm start
 
 # Frontend UI
 
