@@ -1,3 +1,5 @@
+# MERN Stack App
+
 # To run the frontend
  
  cd client
