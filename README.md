@@ -1,11 +1,11 @@
 # MERN Stack App
 
-# To run the frontend
+# To run the frontend:
  
  cd client
  ### `npm start
 
-# To run the backend
+# To run the backend:
 
  cd server
 ### `npm start
