@@ -8,7 +8,7 @@
 # To run the backend:
 
  cd server
-### `npm start
+### `npm start 
 
 # Frontend UI
 
